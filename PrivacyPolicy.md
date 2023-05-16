@@ -28,5 +28,5 @@ The following permissions are required by the app in order to function:
 
 ### Conclusion
 
-Due to its disconnected design, the Car Finder app provides a high degree of user data privacy.
+Due to its disconnected design, the Car Finder app provides a high degree of user data privacy, even if the device is connected to the internet. This is simply because the app does not connect to any remote servers and stores all car and location data locally.
 
