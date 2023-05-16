@@ -26,4 +26,7 @@ The following permissions are required by the app in order to function:
 
  <hr style="border:1px solid gray">
 
+### Conclusion
+
+Due to its disconnected design, the Car Finder app provides a high degree of user data privacy.
 
